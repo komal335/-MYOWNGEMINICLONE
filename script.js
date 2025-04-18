@@ -111,7 +111,7 @@ const handleOutgoingChat = () => {
 isResponseGenerating = true;
 
   const html =`<div class="message-content">
-               <img src="c:/Users/AC/Pictures/girll.jpg" alt="User Image" class="avatar"> 
+               <img src="c:/Users/AC/Downloads/girllllllll.jpg" alt="User Image" class="avatar"> 
                <p class="text"></p>
                </div>`;
  const outgoingMessageDiv = createMessageElement(html, "outgoing");
